@@ -1,0 +1,26 @@
+{
+  "name": "pupperter-remote-chromium",
+  "version": "1.0.0",
+  "description": "poc pdf generator with remote chromium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeter;",
+    "puppeteer;",
+    "pdf;",
+    "chromium;",
+    "headless;",
+    "node;",
+    "docker"
+  ],
+  "author": "Leonardo Ramos Duarte",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "puppeteer": "^8.0.0",
+    "typescript": "^4.2.3"
+  }
+}

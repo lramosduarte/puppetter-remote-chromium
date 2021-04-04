@@ -1,0 +1,4 @@
+*.pdf
+index.js
+
+node_modules/
